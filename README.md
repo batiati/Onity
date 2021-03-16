@@ -11,7 +11,7 @@ For more information about doors locking systems and encoders, please visit http
 You must have a HT24 compatible encoder connected on local and reachable IP address.
 Please refer to the encoder user's guide to setup instructions
 
-```
+```c#
 Console.WriteLine("Enter room# ");
 var room = Console.ReadLine();
 
