@@ -3,7 +3,7 @@
 This project is a DotNet implementation of Onity's TCP/IP PMS protocol.
 It is used to encode magnetic cards and RFID keys using any HT24 door's lock compatible encoder.
 
-For more information about doors locking systems and encoders, please visit https://en.onity.com/products/Pages/ADVANCE.aspx
+For more information about doors locking systems and encoders, please visit https://en.onity.com/products/Pages/Electronic-Locks.aspx
 
 
 # How to use
